@@ -16,7 +16,6 @@ public class ourStack {
 	
 	public int pop() {
 		int res = ourList[StackPointer - 1];
-		
 		StackPointer--;
 		return res;
 	}
