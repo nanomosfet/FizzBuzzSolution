@@ -79,5 +79,8 @@ assert createMinTree([50,100,101,200,300,1000,1001,1004,1006], minTree = []) == 
 
 
 
-# def kthSmallestEl(arr):
+def kthSmallestEl(arr):
+	smallestArrayPossible
+	for el in arr:
+		if 
 
